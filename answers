@@ -1,4 +1,5 @@
-How many lines in total are there in the file - 4016
-How many words are there in the file - 42892
-Number of lines which contains both the words "Sea" and "Fare"
-Number of lines that contains the word "Fare" but not "War"
+How many lines in total are there in the file = 4016
+How many words are there in the file = 42892
+Number of lines which contains both the words "Sea" and "Fare" = 10
+Number of lines that contains the word "Fare" but not "War" = 14
+Average number of letters per word = 4.978
